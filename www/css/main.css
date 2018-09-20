@@ -1,0 +1,36 @@
+body {
+  background-color: #000;
+  font-family: 'Roboto', sans-serif;
+  line-height: 2rem;
+}
+
+.text {
+  color: #fff;
+  border-left: 2px solid white;
+}
+
+h1 {
+  display: none;
+}
+
+.left-icon {
+  max-width: 2em;
+}
+
+.camera-box {
+  padding-bottom: 2em;
+}
+
+.max {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .max {
+    max-width: none;
+    margin: 0 auto;
+  }
+
+}
