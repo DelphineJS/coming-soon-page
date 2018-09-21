@@ -17,12 +17,15 @@ h1 {
   max-width: 2em;
 }
 
+.left-icon:hover {
+  color: #fff;
+}
 .camera-box {
   padding-bottom: 2em;
 }
 
 .max {
-  max-width: 500px;
+  max-width: 450px;
   margin: 0 auto;
 }
 
