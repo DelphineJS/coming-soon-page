@@ -47,25 +47,8 @@ p {
 
 @media only screen and (min-width: 150em) {
 
-  html {
-    font-size: 300%;
-  }
-
-  .bg {
-    margin: 0;
-  }
-
-  .box-left {
-    margin: 0;
-  }
-
   hr {
-    width: 10em;
-    border: 20px solid #f39070;
-  }
-
-  .icons {
-    max-width: 700px;
+    width: 8em;
   }
 
 }
