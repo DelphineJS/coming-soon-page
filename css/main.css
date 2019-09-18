@@ -1,6 +1,6 @@
 body {
   background-image: url("../images/bg.jpg");
-  background-size: 300%;
+  background-size: auto;
   font-family: open-sans, sans-serif;
 }
 
@@ -32,7 +32,7 @@ p {
 @media only screen and (min-width: 30em) {
 
   body {
-    background-size: auto;
+    background-size: 200%;
   }
 
   hr {
@@ -40,7 +40,7 @@ p {
   }
 
   h1 {
-    font-size: 200%;
+    font-size: 250%;
   }
 
 }
